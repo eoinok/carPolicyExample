@@ -6,11 +6,10 @@ If those programmers or teams do not follow the design specification precisely t
 
 
 The following assignment has two objectives
-- To ensure you can follow a UML specivication precisely to create the class that is described
-- To ensure you can follow a UML specification to create a super class i.e. a class that inherits from the base class or subclass
+- To ensure you can follow a UML specification precisely to create the class that is described
+- To ensure you can follow a UML specification to create a superclass i.e. a class that inherits from the base class or subclass
 - To ensure you can implement the \__str__( ) method.
-- To use pytest to test your classes
-
+  
 \__str__() is one of a number of magic methods - sometimes called "dunder" methods which can be overridden in order to make the resultant object behave in a particular way when used in a particular context.
 in the case of the \__str__( ) function we control how the object behaves when used like a string - e.g. printed or concatenated.
 
