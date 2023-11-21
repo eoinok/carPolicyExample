@@ -5,7 +5,7 @@ When designing larger systems it is often necessary to assign the implementation
 If those programmers or teams do not follow the design specification precisely the resultant components/modules will not be able to talk to each other/pass messages to each other and the system will not work
 
 
-The following assignment has two objectives
+The following assignment has three objectives
 - To ensure you can follow a UML specification precisely to create the class that is described
 - To ensure you can follow a UML specification to create a superclass i.e. a class that inherits from the base class or subclass
 - To ensure you can implement the \__str__( ) method.
